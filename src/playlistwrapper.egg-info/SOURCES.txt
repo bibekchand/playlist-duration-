@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/playlistwrapper/__init__.py
+src/playlistwrapper/playlist.py
+src/playlistwrapper.egg-info/PKG-INFO
+src/playlistwrapper.egg-info/SOURCES.txt
+src/playlistwrapper.egg-info/dependency_links.txt
+src/playlistwrapper.egg-info/top_level.txt

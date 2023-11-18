@@ -1,6 +1,6 @@
 [project]
-name = "playlistduration"
-version = "0.0.1"
+name = "playlistwrapper"
+version = "0.0.4"
 authors = [
   { name="Bibek", email="bibekchand843@gmail.com" },
 ]

@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: playlistwrapper
+Version: 0.0.4
+Summary: This gives you the total duration of a youtube playlist.
+Author-email: Bibek <bibekchand843@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 ## Introduction
 This python script is based on the [Youtube data api](https://developers.google.com/youtube/v3/docs). 
 This script in particular returns you with the duration of a playlist.
